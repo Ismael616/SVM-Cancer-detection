@@ -7,9 +7,9 @@
 ## Table of contents
 
 - [Objective](#Objective)
-- [Technologies](#technologies)
-- [Description](#project-description)
-- [Results](#project-results)
+- [Technologies](#Technologies)
+- [Description](#Description)
+- [Results](#Results)
 
 ## Objective
 [(Back to top)](#Table-of-contents)
