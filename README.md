@@ -72,6 +72,8 @@ https://img.shields.io/badge/-numpy-red)
         clf2 = svm.SVC(kernel='poly')
         clf2.fit(X_train, y_train) 
 * ## Results
+    [(Back to top)](#Table-of-contents)
+    
     Confusion Matrix of Default Model:
     
     !['Confusion Matrix](Images/cf_matrix_output.png)
