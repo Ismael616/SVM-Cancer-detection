@@ -51,7 +51,7 @@ https://img.shields.io/badge/-numpy-red)
     For the purposes of this project , we're using a        dataset that has a relatively small number of predictors in each record. 
 
 + ### Data Visualization
-!['Scatter Plot'](Images\data_viz_output.png)
+!['Scatter Plot'](Images/data_viz_output.png)
 
 + ### Data pre-Processing & Modeling
         X_train, X_test, y_train, y_test = train_test_split( X, y, test_size=0.2, random_state=4)
